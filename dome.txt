@@ -1,1 +1,2 @@
-1、gitDome  test
+gitDome  test
+git first dome
